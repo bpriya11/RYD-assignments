@@ -1,0 +1,1017 @@
+[
+    [
+        "1. Which of the following products cannot be placed in",
+        "window no. 1 ?",
+        "(a) U (b) V",
+        "(c) W (d) X",
+        ""
+    ],
+    [
+        "2. If X is placed in window no. 3, then W must be placed",
+        "in which window ?",
+        "(a) 1 (b) 2",
+        "(c) 4 (d) 5",
+        ""
+    ],
+    [
+        "3. If U is placed in window no 5, then which of the following",
+        "products must be placed in window no. 6 ?",
+        "(a) V (b) W",
+        "(c) X (d) Y",
+        ""
+    ],
+    [
+        "4. If Y is selected and B is rejected, the team will consist of",
+        "which one of the following groups?",
+        "(a) A, C, W and Y (b) A, C, X and Y",
+        "(c) A, C, Y and Z (d) A, W, Y and Z",
+        ""
+    ],
+    [
+        "5. If B is selected and Y is rejected, team will consist of which",
+        "one of the following groups?",
+        "(a) A, B, C and W (b) A, B, C and Z",
+        "(c) A, B, C and X (d) A, W, Y and Z",
+        ""
+    ],
+    [
+        "6. If all the three males are selected, then how many combination",
+        "of four member teams are possible?",
+        "(a) 1 (b) 2",
+        "(c) 3 (d) 4",
+        ""
+    ],
+    [
+        "7. How many flats are there on the third floor?",
+        "(a) Three or Four (b) Four",
+        "(c) Five (d) Three",
+        ""
+    ],
+    [
+        "8. What is the combination of occupants on the second floor?",
+        "(a) Lawyer, Manager (b) Teacher, Doctor",
+        "(c) Manager, Doctor (d) Manager, Teacher",
+        ""
+    ],
+    [
+        "9. Who among the following is the neighbour of the other",
+        "lawyer?",
+        "(a) Manager",
+        "(b) Teacher",
+        "(c) Both the Manager and the Teacher",
+        "(d) Data inadequate",
+        ""
+    ],
+    [
+        "10. How many flats are occupied on the fourth floor?",
+        "(a) Two (b) Three",
+        "(c) Four (d) Data inadequate",
+        ""
+    ],
+    [
+        "11. Who among the following plays Sarod?",
+        "(a) Yash (b) Neeraj",
+        "(c) Prakash (d) Data inadequate",
+        ""
+    ],
+    [
+        "12. The guitarist is a student of which of the following disciplies?",
+        "(a) Engineering",
+        "(b) Either Engineering or Management",
+        "(c) Data inadequate",
+        "(d) None of these",
+        ""
+    ],
+    [
+        "13. Who among the following plays Sitar?",
+        "(a) Yash",
+        "(b) Neeraj",
+        "(c) Data inadequate",
+        "(d) None of these",
+        ""
+    ],
+    [
+        "14. Who teaches Geography?",
+        "(a) C (b) E",
+        "(c) B (d) Data inadequate",
+        ""
+    ],
+    [
+        "15. Which subject is taught on Friday?",
+        "(a) Hindi (b) Economics",
+        "(c) History (d) Data inadequate",
+        ""
+    ],
+    [
+        "16. Who teaches Economics?",
+        "(a) E (b) A",
+        "(c) B (d) Data inadequate",
+        ""
+    ],
+    [
+        "17. Which subject is taught on Thursday?",
+        "(a) History (b) Economics",
+        "(c) Data inadequate (d) None of these",
+        ""
+    ],
+    [
+        "18. Which of the following cannot be true ?",
+        "(a) E finishes second.",
+        "(b) F finishes second.",
+        "(c) E finishes ahead of F.",
+        "(d) F finishes ahead of D.",
+        ""
+    ],
+    [
+        "19. If D finishes third, then which of the following must be",
+        "true ?",
+        "(a) G finishes first.",
+        "(b) E finishes ahead of F.",
+        "(c) F finishes ahead of E.",
+        "(d) F finishes behind D.",
+        ""
+    ],
+    [
+        "20. If C finishes first, then in how many different orders is",
+        "it possible for the other golfers to finish?",
+        "(a) 1 (b) 2",
+        "(c) 3 (d) 4",
+        ""
+    ],
+    [
+        "21. Which of the following additional conditions make it",
+        "certain that F finishes second ?",
+        "(a) C finishes ahead of D",
+        "(b) D finishes ahead of F",
+        "(c) F finishes ahead of D",
+        "(d) D finishes behind G",
+        ""
+    ],
+    [
+        "22. If exactly one golfer finishes between C and D, then",
+        "which of the following must be true?",
+        "(a) C finishes first (b) G finishes first",
+        "(c) F finishes third (d) E finished fourth",
+        ""
+    ],
+    [
+        "23. What is C\u2019s compulsory subject ?",
+        "(a) History (b) Physics",
+        "(c) Chemistry (d) English",
+        ""
+    ],
+    [
+        "24. Who is a female member in the group ?",
+        "(a) A (b) B",
+        "(c) C (d) D",
+        ""
+    ],
+    [
+        "25. Who among the following has same optional subjects",
+        "as that of the compulsory subject of F?",
+        "(a) D (b) B",
+        "(c) A (d) C",
+        ""
+    ],
+    [
+        "26. Disregarding which is compulsory and which is the",
+        "optional subject, who has the same two subjects",
+        "combination as F ?",
+        "(a) A (b) B",
+        "(c) E (d) D",
+        ""
+    ],
+    [
+        "27. Which of the following groups of teachers has History",
+        "as the compulsory subject?",
+        "(a) A, C and D (b) B, C and D",
+        "(c) C and D (d) A, B and C",
+        ""
+    ],
+    [
+        "28. If Cyriac does not like to be a member of panel with Ram,",
+        "and Unni was in a panel with Shekhar, then the expert",
+        "who did not participate in the interview was :",
+        "(a) Pramila (b) Cyriac",
+        "(c) Bhushan (d) Any of these",
+        ""
+    ],
+    [
+        "29. If Pramila did not participate in the interview, then who",
+        "was the person most likely to be with Unni ?",
+        "(a) Suresh (b) Bhushan",
+        "(c) Pramila (d) Any of these",
+        ""
+    ],
+    [
+        "30. Unni does not like to be with Shekhar; Ram does not like",
+        "to be with Pramila and Bhushan had Suresh as the",
+        "partner. If both Ram and Pramila attended the interview,",
+        "then who was the partner to Cyriac?",
+        "(a) Cyriac did not attend the interview",
+        "(b) Shekhar",
+        "(c) Pramila",
+        "(d) Unni",
+        ""
+    ],
+    [
+        "31. If Naveen is chosen, which of the following must be",
+        "other members of the crew ?",
+        "(a) Farid, Lal and Monty",
+        "(b) Dalbir, Eric and Monty",
+        "(c) Eric, Farid and Monty",
+        "(d) Eric. Farid and Paul",
+        ""
+    ],
+    [
+        "32. If Paul is chosen, which candidates will NOT be chosen",
+        "to be on the crew ?",
+        "(a) Dalbir, Eric and Monty",
+        "(b) Dalbir, Eric and Farid",
+        "(c) Dalbir, Farid and Lal",
+        "(d) Eric, Farid and Lal",
+        ""
+    ],
+    [
+        "33. Given the above statements about the relationships",
+        "among the potential crew members, which of the",
+        "following must be true ?",
+        "A : If Dalbir is rejected, then Monty must be chosen.",
+        "B : If Dalbir is rejected, then Farid must be chosen.",
+        "C : If Dalbir is chosen, then Paul must also be chosen.",
+        "(a) B only (b) C only",
+        "(c) A and B only (d) A and C only",
+        ""
+    ],
+    [
+        "34. If Lal is chosen as an engineer, which of the following",
+        "could be the other member of the crew?",
+        "A : Dalbir, Farid and Monty",
+        "B : Dalbir, Farid and Naveen",
+        "C : Dalbir, Farid and Paul",
+        "(a) A only (b) B only",
+        "(c) C only (d) A and C only",
+        ""
+    ],
+    [
+        "35. Which mode of transport would help one to reach R starting",
+        "from Q, but without changing the mode of transport?",
+        "(a) Boat (b) Rail",
+        "(c) Bus (d) Air",
+        ""
+    ],
+    [
+        "36. If a person visits each of the places starting from P and gets",
+        "back to P, which of the following places must he visit twice?",
+        "(a) Q (b) R",
+        "(c) S (d) T",
+        ""
+    ],
+    [
+        "37. Which one of the following pairs of cities is connected by",
+        "any of the routes directly without going to any other city?",
+        "(a) P and T (b) T and S",
+        "(c) Q and R (d) None of these",
+        ""
+    ],
+    [
+        "38. Between which two cities among the pairs of cities given",
+        "below are there maximum travel options available?",
+        "(a) Q and S (b) P and R",
+        "(c) P and T (d) Q and R",
+        ""
+    ],
+    [
+        "39. Who is good in Computer Science, History and Dramatics?",
+        "(a) Anjali (b) Madhu",
+        "(c) Shobha (d) Nisha",
+        ""
+    ],
+    [
+        "40. Who is good in Physics, Dramatics and Computer Science?",
+        "(a) Shobha (b) Poonam",
+        "(c) Madhu (d) Anjali",
+        ""
+    ],
+    [
+        "41. Who is good in Physics, History and Dramatics?",
+        "(a) Poonam (b) Shobha",
+        "(c) Madhu (d) Anjali",
+        ""
+    ],
+    [
+        "42. Who is good in History, Physics, Computer Science and",
+        "Mathematics?",
+        "(a) Poonam (b) Nisha",
+        "(c) Madhu (d) Anjali",
+        ""
+    ],
+    [
+        "43. Who is good in Physics, History and Mathematics but not",
+        "in Computer Science?",
+        "(a) Madhu (b) Poonam",
+        "(c) Nisha (d) Anjali",
+        "Directions (Qs. 44-48) : Study the following information",
+        "carefully and answer the questions that follow :",
+        "In a group of five persons A, B, C, D and E :",
+        "1. B and C are intelligent in Mathematics and Geography",
+        "2. A and C are intelligent in Mathematics and History",
+        "3. B and D are intelligent in Political Science and Geography.",
+        "4. D and E are intelligent in Political Science and Biology.",
+        "5. E is intelligent in Biology. History and Political Science.",
+        "6.6 Problem Solving",
+        ""
+    ],
+    [
+        "44. Who is intelligent in Political Science, Geography and",
+        "Biology ?",
+        "(a) E (b) D",
+        "(c) C (d) B",
+        ""
+    ],
+    [
+        "45. Who is intelligent in Mathematics, Political Science and",
+        "Geography ?",
+        "(a) A (b) B",
+        "(c) C (d) D",
+        ""
+    ],
+    [
+        "46. Who is intelligent in Mathematics and History but not in",
+        "Geography ?",
+        "(a) C (b) E",
+        "(c) A (d) B",
+        ""
+    ],
+    [
+        "47. Who is intelligent in Mathematics, Geography and History?",
+        "(a) E (b) A",
+        "(c) D (d) C",
+        ""
+    ],
+    [
+        "48. Who is intelligent in Political Science, History and Biology?",
+        "(a) A (b) B",
+        "(c) C (d) E",
+        ""
+    ],
+    [
+        "49. Who is good in Hockey, Cricket and Volleyball ?",
+        "(a) Sachin (b) Kunal",
+        "(c) Ravi (d) Gaurav",
+        ""
+    ],
+    [
+        "50. Who is good in Baseball, Cricket, Volleyball and Football ?",
+        "(a) Sachin (b) Kunal",
+        "(c) Gaurav (d) Ravi",
+        ""
+    ],
+    [
+        "51. Who is good in Baseball, Volleyball and Hockey ?",
+        "(a) Sachin (b) Kunal",
+        "(c) Ravi (d) Gaurav",
+        "(A) Gopal is shorter than Ashok but taller than Kunal.",
+        "(B) Navin is shorter than Kunal.",
+        "(C) Jayesh is taller than Navin.",
+        "(D) Ashok is taller than Jayesh.",
+        ""
+    ],
+    [
+        "52. Who among them is the tallest ?",
+        "(a) Gopal (b) Ashok",
+        "(c) Kunal (d) Navin",
+        ""
+    ],
+    [
+        "53. Which of the given information is not sufficient to answer",
+        "the above question ?",
+        "(a) A (b) B",
+        "(c) C (d) D",
+        ""
+    ],
+    [
+        "54. B passed the newspaper to whom ?",
+        "(a) A (b) C",
+        "(c) D (d) E",
+        ""
+    ],
+    [
+        "55. Who read the newspaper last ?",
+        "(a) A (b) B",
+        "(c) C (d) D",
+        ""
+    ],
+    [
+        "56. The eighth person present, Jackie, must be",
+        "I. the host II. seated to Shoba\u2019s right",
+        "III. seated opposite Urmila",
+        "(a) I only (b) III only",
+        "(c) I and II only (d) II and III only",
+        ""
+    ],
+    [
+        "57. Which of the following persons is definitely not seated next",
+        "to a person of the same sex?",
+        "(a) Maqbool (b) Madhuri",
+        "(c) Jackie (d) Shobha",
+        ""
+    ],
+    [
+        "58. If Ratan would have exchanged seats with a person four",
+        "places to his left, which of the following would have been",
+        "true after the exchange?",
+        "I. No one was seated between two persons of the opposite",
+        "sex. (e.g. no man was seated between two women)",
+        "II. One side of the table consisted entirely of persons of",
+        "the same sex.",
+        "III. Either the host or the hostess changed seats.",
+        "(a) I only (b) II only",
+        "(c) I and II only (d) II and III only",
+        ""
+    ],
+    [
+        "59. If each person is placed directly opposite his or her spouse,",
+        "which of the following pairs must be married?",
+        "(a) Ratan and Monisha (b) Madhuri and Dhirubhai",
+        "(c) Urmila and Jackie (d) Ratan and Madhuri",
+        ""
+    ],
+    [
+        "60. The music director of film wants to select four persons to",
+        "work on different aspects of the composition of a piece of",
+        "music. Seven persons are available for this work: they are",
+        "Rohit, Tanya, Shobha, Kaushal, Kunal, Mukesh and Jaswant.",
+        "Rohit and Tanya will not work together. Kunal and Shobha",
+        "will not work together. Mukesh and Kunal want to work",
+        "together.",
+        "Which of the following is the most acceptable group of people",
+        "that can be selected by the music director?",
+        "(a) Rohit, Shobha, Kunal and Kaushal",
+        "(b) Tanya, Kaushal, Shobha and Rohit",
+        "(c) Tanya, Mukesh, Kunal and Jaswant",
+        "(d) Shobha, Tanya, Rohit and Mukesh",
+        ""
+    ],
+    [
+        "61. Five people A, B, C, D and E are seated about a round table.",
+        "Every chair is spaced equidistant from adjacent chairs.",
+        "(i) C is seated next to A.",
+        "(ii) A is seated two seats from D.",
+        "(iii) B is not seated next to A.",
+        "Which of the following must be true?",
+        "(I) D is seated next to B.",
+        "(II) E is seated next to A.",
+        "Select the correct answer from the codes given below:",
+        "(a) I only (b) II only",
+        "(c) Both I and II (d) Neither I nor II",
+        "Directions (Qs. 62-65) : Study the following information and",
+        "answer questions that follow :",
+        "A, B, C, D, E, F and G are brothers. Two brothers had an argument",
+        "and A said to B \u201cYou are as old as C was when I was twice as old",
+        "as D, and will be as old as E was when he was as old as C is now\u201d.",
+        "B said to A, \u201cYou may be older than F but G is as old as I was when",
+        "you were as old as G is, and D will be as old as F was when F will",
+        "be as old as G is\u201d.",
+        ""
+    ],
+    [
+        "62. Who is the eldest brother?",
+        "(a) A (b) E",
+        "(c) C (d) Can\u2019t be determined",
+        ""
+    ],
+    [
+        "63. Who is the youngest brother?",
+        "(a) B (b) D",
+        "(c) F (d) Can\u2019t be determined",
+        ""
+    ],
+    [
+        "64. Which two are probably twins",
+        "(a) D and G (b) E and C",
+        "(c) A and B (d) Can\u2019t be determined",
+        ""
+    ],
+    [
+        "65. Which of the following is false?",
+        "(a) G has 4 older brothers",
+        "(b) A is older than G but younger than E",
+        "(c) B has three older brothers",
+        "(d) There is a pair of twins among the brothers",
+        "A week consist of six days and a month consists of 4 weeks",
+        ""
+    ],
+    [
+        "66. If Bankatlal is paid Rs. 20 per working hour in the 1st week,",
+        "what is his salary for the 1st month?",
+        "(a) 1440 (b) 2040",
+        "(c) 1320 (d) 1680",
+        ""
+    ],
+    [
+        "67. Referring to the data given in previous question, Bankatlal\u2019s",
+        "average monthly salary at the end of the first four months",
+        "will be",
+        "(a) 1760 (b) 2040",
+        "(c) 1830 (d) 1680",
+        ""
+    ],
+    [
+        "68. The new manager Khushaldas stipulated that Rs 5 be",
+        "deducted for every hour of rest and Rs 25 be paid per hour",
+        "starting 9th week, then what will be the change in Bankatlal\u2019s",
+        "salary for the 3rd month? (Hourly deductions and salaries",
+        "are constant for all weeks starting 9th week)",
+        "(a) 540 (b) 480",
+        "(c) 240 (d) 0",
+        ""
+    ],
+    [
+        "69. Using the data in the previous questions, what will be the",
+        "total earning of Bankatlal at the end of sixteen weeks",
+        "(a) 7320 (b) 7800",
+        "(c) 8400 (d) 7680",
+        ""
+    ],
+    [
+        "70. Geeta is older than her cousin Meena. Meena\u2019s brother Bipin is",
+        "older than Geeta. When Meena and Bipin visit Geeta, they like to",
+        "play chess. Meena wins the game more often than Geeta.",
+        "Based on the above information, four conclusions, as given",
+        "below, have been made. Which one of these logically follows",
+        "from the informaton given above?",
+        "(a) While playing chess with Geeta and Meena, Bipin often",
+        "loses.",
+        "(b) Geeta is the oldest among the three.",
+        "(c) Geeta hates to lose the game.",
+        "(d) Meena is the youngest of the three.",
+        ""
+    ],
+    [
+        "71. There are five hobby clubs in a college viz, photography",
+        "yachting, chess, electronics and gardening. The gardening",
+        "group meets every second day, the electronics group meets",
+        "every third day, the chess group meets every fourth day, the",
+        "yachting group meets every fifth day and the photography",
+        "group meets every sixth day. How many times do all the five",
+        "groups meet on the same day within 180 days?",
+        "(a) 3 (b) 5",
+        "(c) 10 (d) 18",
+        ""
+    ],
+    [
+        "72. A, B, C, D and E belong to five different cities P, Q, R, S and",
+        "T (not necessarily in that order). Each one of them comes",
+        "from a different city. Further it is given that",
+        "1. B and C do not belong to Q.",
+        "2. B and E do not belong to P and R.",
+        "3. A and C do not belong to R, S and T.",
+        "4. D and E do not belong to Q and T.",
+        "Which one of the following statements is not correct?",
+        "(a) C belongs to P (b) D belongs to R",
+        "(c) A belongs to Q (d) B belongs to S",
+        "6.8 Problem Solving",
+        ""
+    ],
+    [
+        "73. The maximum number of coins collected by any one of them",
+        "cannot exceed",
+        "(a) 64 (b) 36",
+        "(c) 54 (d) None of these",
+        ""
+    ],
+    [
+        "74. If A collected 54 coins, then the difference in the number of",
+        "coins between the one who collected maximum number of",
+        "coins and the one who collected the second highest number",
+        "of coins must be at least",
+        "(a) 12 (b) 24",
+        "(c) 30 (d) None of these",
+        ""
+    ],
+    [
+        "75. If A collected 54 coins and B collected two more coins than",
+        "the twice of the number of coins collected by C. Then the",
+        "number of coins collected by B could be",
+        "(a) 28 (b) 20",
+        "(c) 26 (d) 22",
+        ""
+    ],
+    [
+        "76. Seven men, A, B, C, D, E, F and G are standing in a queue in",
+        "that order. Each one is wearing a cap of different colour like",
+        "violet, indigo, blue green, yellow, orange and red. D is able to",
+        "see in front of him green and blue, but not violet. E can see",
+        "violet and yellow, but not red. G can see caps of all colours",
+        "other than orange. If E is wearing an indigo coloured cap,",
+        "then the colour of the cap worn by F is",
+        "(a) Blue (b) Violet",
+        "(c) Red (d) Orange",
+        ""
+    ],
+    [
+        "77. Five boys took part in a race. Raj finished before Mohit but",
+        "behind Gaurav. Ashish finished before Sanchit but behind",
+        "Mohit. Who won the race ?",
+        "(a) Raj (b) Gaurav",
+        "(c) Mohit (d) Ashish",
+        ""
+    ],
+    [
+        "78. My son adores chocolates. He likes biscuits. But he hates",
+        "apples. I told him that he can buy as many chocolates he",
+        "wishes. But then he must have biscuits twice the number of",
+        "chocolates and apples more than biscuits and chocolates",
+        "together. Each chocolate costs Re. 1. The cost of apple is",
+        "twice of chocolate and four biscuits are worth of one apple.",
+        "Then which of the following can be the amount that I spent",
+        "on that evening on my son?",
+        "(a) Rs 34 (b) Rs 33",
+        "(c) Rs 8 (d) None of these",
+        ""
+    ],
+    [
+        "79. Who wore the Red saree?",
+        "(a) Ms. Andhra Pradesh (b) Ms. West Bengal",
+        "(c) Ms. Uttar Pradesh (d) Ms. Maharashtra",
+        ""
+    ],
+    [
+        "80. Ms. West Bengal was sitting adjacent to..........................",
+        "(a) Ms. Andhra Pradesh and Ms. Maharashtra",
+        "(b) Ms. Uttar Pradesh and Ms. Maharashta",
+        "(c) Ms. Andhra Pradesh and Ms. Uttar Pradesh",
+        "(d) Ms. Uttar Pradesh only",
+        ""
+    ],
+    [
+        "81. Which saree was worn by Ms. Andhra Pradesh?",
+        "(a) Yellow (b) Red",
+        "(c) Green (d) White",
+        ""
+    ],
+    [
+        "82. Who was the runner up?",
+        "(a) Ms. Andhra Pradesh (b) Ms. West Bengal",
+        "(c) Ms. Uttar Pradesh (d) Ms. Maharashta",
+        ""
+    ],
+    [
+        "83. Who plays Volleyball?",
+        "(a) B (b) C",
+        "(c) F (d) Data inadequate",
+        ""
+    ],
+    [
+        "84. Which coloured car F owns?",
+        "(a) Green (b) Blue",
+        "(c) Either Green or Blue (d) Data inadequate",
+        "Problem Solving 6.9",
+        ""
+    ],
+    [
+        "85. Which of the following combinations of colour of car and",
+        "game played is not correct?",
+        "(a) Yellow \u2014 Polo (b) Green \u2014 Tennis",
+        "(c) Black \u2014 Cricket (d) Red \u2014 Hockey",
+        ""
+    ],
+    [
+        "86. Tall person is at which place counting from right ?",
+        "(a) First (b) Second",
+        "(c) Third (d) Fourth",
+        ""
+    ],
+    [
+        "87. Person to the left of weak person possesses which of the",
+        "following characteristics?",
+        "(a) Intelligent (b) Fat",
+        "(c) Fair (d) Tall",
+        ""
+    ],
+    [
+        "88. Which of the following persons is sitting at the centre?",
+        "(a) Intelligent (b) Fat",
+        "(c) Fair (d) Weak",
+        ""
+    ],
+    [
+        "89. Asha, Babita, Chinni, Deepa, Evita and Fatima are standing",
+        "in a row. Babita is between Fatima and Deepa. Evita is",
+        "between Asha and Chinni. Asha does not stand next to",
+        "either Fatima or Deepa. Chinni does not stand next to Deepa.",
+        "Fatima is between which of the following pairs of persons?",
+        "(a) Babita and Chinni (b) Chinni and Deepa",
+        "(c) Asha and Chinni (d) Asha and Babita",
+        ""
+    ],
+    [
+        "90. Three persons A, B and C wore shirts of black, blue and",
+        "orange colours (not necessarily in that order) and pants of",
+        "green, yellow and orange colours (not necessarily in that",
+        "order). No person wore shirt and pants of the same colour.",
+        "Further, it is given that",
+        "1. A did not wear shirt of black colour.",
+        "2. B did not wear shirt of blue colour.",
+        "3. C did not wear shirt of orange colour.",
+        "4. A did not wear pants of green colour.",
+        "5. B wore pants of orange colour.",
+        "What were the colours of the pants and shirt worn by C,",
+        "respectively?",
+        "(a) Orange and black (b) Green and blue",
+        "(c) Yellow and blue (d) Yellow and black",
+        ""
+    ],
+    [
+        "91. Read the passage given below and the two statements that",
+        "follow (given on the basis of the passage):",
+        "Four men are waiting at Delhi airport for a Mumbai flight.",
+        "Two are doctors and the other two are businessmen. Two",
+        "speak Gujarati and two speak Tamil. No two of the same",
+        "profession speak the same language. Two are Muslims and",
+        "two are Christians. No two of the same religion are of the",
+        "same profession, nor do they speak the same language. The",
+        "Tamil-speaking doctor is a Christian.",
+        "1. The Christian-businessman speaks Gujarati.",
+        "2. The Gujarati-speaking doctor is a Muslim.",
+        "Which of the above statements is/are correct conclusion/",
+        "conclusions?",
+        "(a) 1 only (b) 2 only",
+        "(c) Both 1 and 2 (d) Neither 1 nor 2",
+        ""
+    ],
+    [
+        "92. Where is E ?",
+        "(a) Between A and B (b) Between C and A",
+        "(c) Between D and C (d) In front of C",
+        ""
+    ],
+    [
+        "93. Who is the tallest ?",
+        "(a) B (b) D",
+        "(c) F (d) A",
+        ""
+    ],
+    [
+        "94. If we start counting from the shortest, which boy is fourth",
+        "one in the line ?",
+        "(a) E (b) A",
+        "(c) D (d) C",
+        ""
+    ],
+    [
+        "95. Who is the shortest ?",
+        "(a) C (b) D",
+        "(c) B (d) F",
+        ""
+    ],
+    [
+        "96. The boy in the middle wears which coloured-dress?",
+        "(a) Green",
+        "(b) Blue",
+        "(c) Either Green or Blue",
+        "(d) Cannot be determined",
+        ""
+    ],
+    [
+        "97. Who is to the right of yellow-dressed boy?",
+        "(a) Data inadequate (b) White",
+        "(c) Green (d) Blue",
+        ""
+    ],
+    [
+        "98. Who is sitting to the right of E?",
+        "(a) A (b) C",
+        "(c) D (d) None of these",
+        ""
+    ],
+    [
+        "99. Which of the following pairs of people are sitting at the",
+        "extreme ends?",
+        "(a) A B (b) A E",
+        "(c) C B (d) Cannot be determined",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    [
+        "100. Name the person who should change places with C such",
+        "that he gets the third place from the north end.",
+        "(a) E (b) F",
+        "(c) G (d) D",
+        ""
+    ],
+    [
+        "101. Immediately between which of the following pairs of people",
+        "is D sitting?",
+        "(a) AC (b) A F",
+        "(c) C E (d) C F",
+        ""
+    ],
+    [
+        "102. Which of the conditions (i) to (v) given above is not required",
+        "to find out the place in which A is sitting?",
+        "(a) (i) (b) (ii)",
+        "(c) (iii) (d) All are required",
+        ""
+    ],
+    [
+        "103. Who is facing A?",
+        "(a) B (b) D",
+        "(c) F (d) Either F or B",
+        ""
+    ],
+    [
+        "104. Who among the following is facing D?",
+        "(a) A (b) C",
+        "(c) E (d) Cannot be determined",
+        ""
+    ],
+    [
+        "105. Which lecture is scheduled on Monday?",
+        "(a) History (b) Economics",
+        "(c) Mathematics (d) Statistics",
+        ""
+    ],
+    [
+        "106. Which lecture is scheduled between Statistics and English?",
+        "(a) Economics (b) History",
+        "(c) Mathematics (d) No lecture",
+        ""
+    ],
+    [
+        "107. Which lecture is the last one in the week?",
+        "(a) History (b) English",
+        "(c) Mathematics (d) Economics",
+        ""
+    ],
+    [
+        "108. Which lecture is scheduled on Wednesday?",
+        "(a) Statistics (b) Economics",
+        "(c) English (d) History",
+        ""
+    ],
+    [
+        "109. Which lecture is scheduled before the Mathematics lecture?",
+        "(a) Economics (b) History",
+        "(c) Statistics (d) English",
+        ""
+    ],
+    [
+        "110. In five flats, one above the other, live five professionals.",
+        "The professor has to go up to meet his IAS officer friend.",
+        "The doctor is equally friendly to all, and has to go up as",
+        "frequently as go down. The engineer has to go up to meet",
+        "his MLA friend above whose flat lives the professor's friend.",
+        "From the ground floor to the top floor, in what order do the",
+        "five professionals live?",
+        "(a) Engineer, Professor, Doctor, IAS officer, MLA",
+        "(b) Professor, Engineer, Doctor, IAS officer, MLA",
+        "(c) IAS officer, Engineer, Doctor, Professor, MLA",
+        "(d) Professor, Engineer, Doctor, MLA, IAS officer",
+        ""
+    ],
+    [
+        "111. Who does not play hockey?",
+        "(a) D (b) C (c) B (d) A",
+        ""
+    ],
+    [
+        "112. Who plays football, basketball and hockey?",
+        "(a) D (b) C (c) B (d) A",
+        ""
+    ],
+    [
+        "113. Which game do B, C and D play?",
+        "(a) Basketball (b) Hockey",
+        "(c) Cricket (d) Football",
+        ""
+    ],
+    [
+        "114. A question paper must have a question on one of the",
+        "eight poets :A, B, C, D, E, F, G or H. The first four belong to",
+        "the medieval period while the rest are considered modern poets.",
+        "Generally, modern poets figure in the question paper in",
+        "alternate years. Generally those who like H like G also; and",
+        "those who like F like E also. The paper-setter does not like",
+        "to ask about F as he has written a book on F, but he likes",
+        "F. Last year, the paper contained a question on A. On the",
+        "basis of the information given, this year's paper is most",
+        "likely to contain a question on",
+        "(a) C (b) E (c) F (d) H",
+        ""
+    ],
+    [
+        "115. In a group of six women there are four dancers, four vocal",
+        "musicians, one actress and three violinists. Girija and Vanaja",
+        "are among the violinists while Jalaja and Shailaja do not",
+        "know how to play on the violin. Shailaja and Tanuja are",
+        "among the dancers. Jalaja, Vanaja, Shailaja and Tanuja are",
+        "all vocal musicians and two of them are also violinists. If",
+        "Pooja is an actress, who among the following is certainly",
+        "a dancer and a violinist ?",
+        "(a) Jalaja (b) Pooja",
+        "(c) Shailaja (d) Tanuja",
+        ""
+    ],
+    [
+        "116. Examine the following statements :",
+        "1. George attends Music classes on Monday.",
+        "2. He attends Mathematics classes on Wednesday.",
+        "3. His Literature classes are not on Friday.",
+        "4. He attends History classes on the day following the",
+        "day of his Mathematics",
+        "5. On Tuesday, he attends this Sports classes.",
+        "If he attends just one subject in a day and his Sunday is",
+        "free, then he is also free on",
+        "(a) Monday (b) Thursday",
+        "(c) Saturday (d) Friday",
+        ""
+    ],
+    [
+        "117. What is the profession of B ?",
+        "(a) Judge (b) Lawyer",
+        "(c) Draughtsman (d) Cannot be determined",
+        ""
+    ],
+    [
+        "118. Which of the following is/are a couple/couples ?",
+        "(a) AD only (b) BC only",
+        "(c) Both AD and BC (d) Both AC and BD",
+        ""
+    ],
+    [
+        "119. What is the profession of D?",
+        "(a) Judge (b) Stenographer",
+        "(c) Doctor (d) Cannot be determined",
+        ""
+    ],
+    [
+        "120. There are 50 students admitted to a nursery class. Some",
+        "students can speak only English and some can speak only",
+        "Hindi. 10 students can speak both English and Hindi. If",
+        "the number of students who can speak English is 21, then",
+        "how many students can speak Hindi, how many can speak",
+        "only Hindi and how many can speak only English?",
+        "(a) 21, 11and 29 respectively",
+        "(b) 28, 18 and 22 respectively",
+        "(c) 37, 27 and 13 respectively",
+        "(d) 39, 29 and 11respectively",
+        ""
+    ],
+    [
+        "121. Out of a total of 120 musicians in a club, 5% can play all",
+        "the three instruments, guitar, violin and flute. It so happens",
+        "that the number of musicians who can play any two and only",
+        "two of the above instruments is 30. The number of musicians",
+        "who can play the guitar alone is 40. What is the total number",
+        "of those who can play violin alone or flute alone ?",
+        "(a) 45 (b) 44",
+        "(c) 38 (d) 30",
+        ""
+    ],
+    [
+        "122. There are seven persons up on a ladder, A, B, C, D, E, F",
+        "and G (not in that order). A is further up than E but is",
+        "lower than C. B is in the middle. G is between A and B.",
+        "E is between B and F. If F is between E and D, the person",
+        "on the bottom step of the ladder will be",
+        "(a) B (b) F",
+        "(c) D (d) E",
+        ""
+    ],
+    [
+        "123. Consider that :",
+        "1. A is taller than B.",
+        "2. C is taller than A.",
+        "3. D is taller than C.",
+        "4. E is the tallest of all.",
+        "If they are made to sit in the above order of their height,",
+        "who will occupy the mid position ?",
+        "(a) A (b) B",
+        "(c) C (d) D",
+        ""
+    ],
+    [
+        "124. Four children are sitting in a row. A is occupying the seat",
+        "next to B but not next to C. If C is not sitting next to D,",
+        "who is/are occupying seat/seats adjacent to D ?",
+        "(a) B (b) A",
+        "(c) B and A (d) Impossible to tell",
+        ""
+    ],
+    [
+        "125. Six books are labelled A, B, C, D, E and F and are placed",
+        "side by side. Books B, C, E and F have green covers while",
+        "others have yellow covers. Books A, B and D are new",
+        "while the rest are old volumes. Books A, B and C are law",
+        "reports while the rest are medical extracts. Which two",
+        "books are old medical extracts and have green covers ?",
+        "(a) B and C (b) E and F",
+        "(c) C and E (d) C and F"
+    ]
+]
